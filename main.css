@@ -2,6 +2,19 @@ body {
   background-color: #cc3333;
 }
 
+container {
+height:400px;
+width:400px;
+line-height:400px;
+text-align:center;
+}
+
+img {
+max-height:100%;
+max-width:100%;
+vertical-align:middle;
+}
+
 h1 {
   border-style: solid;
   color: #6699cc;
