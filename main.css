@@ -2,12 +2,7 @@ body {
   background-color: #cc3333;
 }
 
-container {
-height:400px;
-width:400px;
-line-height:400px;
-text-align:center;
-}
+
 
 h1 {
   border-style: solid;
@@ -17,7 +12,7 @@ h1 {
 }
 
 h2{
-  font-size: large;
+  font-size: x-large;
   Font-family: georgia;
 }
 
