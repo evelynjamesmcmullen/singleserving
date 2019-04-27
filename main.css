@@ -1,7 +1,17 @@
+
+
+
+
 body {
   background-color: ##ffcccc;
 }
 
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 h2{
   color: #black; 
