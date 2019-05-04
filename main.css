@@ -1,8 +1,10 @@
 body {
   background-color: #ffcccc;
+  text-align: center;
 }
 
 .container {
+  color: #ffffcc;
   padding-right: 40px;
   padding-left: 40px;
   margin-right: auto;
@@ -11,11 +13,11 @@ body {
 
 h2{
   color: #black; 
-  font-size: x-large;
+  font-size: 27 pt;
   Font-family: georgia;
 }
 
 h4{
-  color:#ff3333;
+  color:#ffcccc;
   
 }
