@@ -7,10 +7,10 @@ body {
 
   padding-right: 70px;
   padding-left: 70px;
-  margin-right: 100 px;
-  margin-left: 100 px;
-  margin-top: 100 px;
-  margin-bottom: 100 px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 h2{
